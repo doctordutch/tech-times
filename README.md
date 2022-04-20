@@ -4,7 +4,7 @@
 
 ## Description
 
-This project will be a CMS-style blog site similar to a Wordpress site, for users to publish their blog posts or comment on other user’s posts as well. This app will follow the MVC paradigm, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+This is a CMS-style blog site similar to a Wordpress site, for users to publish their blog posts or comment on other user’s posts as well. This app will follow the MVC paradigm, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 
 ## User Story
@@ -56,7 +56,7 @@ THEN I am automatically signed out of the site
 ## Installation
 This application has been deployed to Heroku. 
 <br>
-You may access it [here]
+You may access it [here](https://techtimesblog.herokuapp.com/)
 
 
 
