@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+        "title": "Full Stack",
+		"post_content": "I'd like a full stack sandwich, please",
+		"date_created": "04.18.2022",
+        "user_id": 1
+	},
+	{
+		"id": 2,
+        "title": "NES.CSS",
+		"post_content": "Have you heard of NES.CSS?",
+		"date_created": "04.19.2022",
+        "user_id": 123
+	},
+	{
+		"id": 3,
+        "title": "JAWSDB",
+		"post_content": "Using JawsDB is great but it's also a pain!",
+		"date_created": "03.06.2022",
+        "user_id": 456
+	}
+]

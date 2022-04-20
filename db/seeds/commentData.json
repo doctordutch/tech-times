@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "comment_content": "This is a test commment!",
+        "date_created": "04.19.2022",
+        "user_id": 123,
+        "post_id": 1
+    },
+    {
+        "id": 2,
+        "comment_content": "I'm so lost in this class!.",
+        "date_created": "07.06.2021",
+        "user_id": 456,
+        "post_id": 1
+    },
+    {
+        "id": 3,
+        "comment_content": "Yes it's awesome?",
+        "date_created": "07.06.2021",
+        "user_id": 456,
+        "post_id": 2
+    }
+]
